@@ -3,3 +3,5 @@
 It is an open-source initiative that seeks to imitate the features and user interface of the well-known social networking site Instagram.
 
 Please feel free to ask any question/queries.
+
+This project is still under process and under tasking.
